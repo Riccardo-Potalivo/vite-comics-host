@@ -32,7 +32,7 @@
 
     section
     {
-        background-image: url(./assets/img/jumbotron.jpg);
+        background-image: url(./img/jumbotron.jpg);
         background-size: cover;
     }
     .container
