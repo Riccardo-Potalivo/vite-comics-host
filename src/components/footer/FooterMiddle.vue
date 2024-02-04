@@ -82,7 +82,7 @@
 
   section
   {
-    background-image: url('../../assets/img/footer-bg.jpg');
+    background-image: url('./assets/img/footer-bg.jpg');
     background-size: cover;
     color: $white;
     overflow: hidden;
@@ -92,7 +92,7 @@
   {
     position: relative;
     padding: 3rem 0;
-    background-image: url('../../assets/img/dc-logo-bg.png');
+    background-image: url('./assets/img/dc-logo-bg.png');
     background-repeat: no-repeat;
     background-position: right;
 
